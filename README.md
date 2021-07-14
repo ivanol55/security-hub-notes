@@ -216,3 +216,6 @@ Then, you can just generate alerts from your security software on-demand with an
 - Auto remediation is not available when it could interrupt workloads, like changing EC2 instance configurations
 - If you understand your workload to automatically fix it, you can setup custom automatic remediations for certain alert types
 
+# Conclusions
+
+If you run a considerable amount of your insfrastructure inside Amazon Web Services, using AWS Security Hub to give you a better lens into cybersecurity is a very compelling option, especially in a day and age where AWS products are more and more diversified, and infrastructure requires looking at more panels and sites. Centralization of alerting is a big step towards a more secure infrastructure without losing time in analyzing every part of it by yourself.
