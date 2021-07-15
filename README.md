@@ -13,6 +13,10 @@
 - These security alerts are separated between dashboards
 - No unified compliance checking
 
+# Elevator pitch
+
+Amazon Web Services has a lot of resources and accounts that you need to keep tabs on for security and compliance. This is too segregated and large to manage for any reasonable sized organization. Security Hub solves this by automatically gathering data, alerting on the security problems it finds, and prioritizing which one of them should be done more urgently. It covers most AWS resources, from EC2 machines, to S3 buckets, to networking permissions, to user security rules like password complexity and multi-factor authentication.
+
 # Setting up Security Hub
 
 ## Setup
